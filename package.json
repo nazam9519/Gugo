@@ -1,0 +1,21 @@
+{
+  "name": "Gugo",
+  "version": "0.0.0",
+  "description": "",
+  "main": "server.js",
+  "repository": "",
+  "author": "RNB",
+  "dependencies": {
+    "async": "~0.2.8",
+    "bcrypt": "^1.0.3",
+    "body-parser": "^1.18.2",
+    "express": "^4.15.4",
+    "fb": "^2.0.0",
+    "jsonwebtoken": "^8.1.0",
+    "mongoose": "^4.11.11",
+    "mongoose-unique-validator": "^1.0.6",
+    "request": "^2.83.0",
+    "request-promise": "^4.2.2",
+    "socket.io": "~0.9.14"
+  }
+}
